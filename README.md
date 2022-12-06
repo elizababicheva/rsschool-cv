@@ -5,7 +5,7 @@
 **E-mail:** elizababicheva@gmail.com
 ---
 ## Briefly about myself
----
+I've started my career path as a tecnical interpreter. As а self-employed interpreter i worked for many large factories. 
 ## Skills and proficiency
 + python
 + django
