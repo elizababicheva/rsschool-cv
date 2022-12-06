@@ -3,6 +3,7 @@
 ---
 ## Contact information
 **Github** [elizababicheva](https://github.com/elizababicheva)
+
 **E-mail:** elizababicheva@gmail.com
 ---
 ## Briefly about myself
@@ -20,11 +21,11 @@ I've started my career path as a tecnical interpreter. As а self-employed inter
 ---
 ## Projects:
 As examples of my code i would like to demostrate some projects that i've done:
-1. Foodgram project On this service, users will be able to publish recipes, subscribe to other user's publications, add favorite recipes to the "Favorites", and before going to the store, download a summary list of products to prepare one or more selected dishes.
++ Foodgram project On this service, users will be able to publish recipes, subscribe to other user's publications, add favorite recipes to the "Favorites", and before going to the store, download a summary list of products to prepare one or more selected dishes.
 [Foodgram project](https://github.com/elizababicheva/bs4_parser_pep.git)
 ---
-2. Parser that can check the updates, know the status of python versions, check the statuses of different peps and count their total amount.
-[Parser pep](https://github.com/elizababicheva/foodgram-project-react.git)
++ Parser that can check the updates, know the status of python versions, check the statuses of different peps and count their total amount.
+[Parser pep](https://github.com/elizababicheva/bs4_parser_pep.git)
 ---
 ## Languages
 + English - Upper-intermediate(B2) - certificate of the University of Bologna
