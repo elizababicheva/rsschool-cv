@@ -17,6 +17,11 @@ I've started my career path as a tecnical interpreter. As а self-employed inter
 + gunicorn
 + docker
 ---
+## Projects
+As examples of my code i would like to demostrate some projects that i've done
+1. On this service, users will be able to publish recipes, subscribe to other user's publications, add favorite recipes to the "Favorites", and before going to the store, download a summary list of products to prepare one or more selected dishes.
+2. Parser that can check the updates, know the status of python versions, check the statuses of peps on page https://peps.python.org/ and count total amount.
+---
 ## Languages
 + English - Upper-intermediate(B2) - certificate of the University of Bologna
 ![Alt text](images/english_certificate.png?raw=true "Title")
