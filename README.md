@@ -20,6 +20,7 @@ I've started my career path as a tecnical interpreter. As а self-employed inter
 ## Languages
 + English - Upper-intermediate(B2) - certificate of the University of Bologna
 + Italian - Upper-intermediate(B2) - certificate CILS
+![Alt text](images/italian_certificate.jpg?raw=true "Title")
 + Russian - Native
 + Belarussian - Native
 + Armenian - Basic (A1)
