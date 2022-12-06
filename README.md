@@ -11,12 +11,11 @@
 + django
 + django rest framework
 + html5
-+ git, github
++ git, github, github actions
 + postgresql
 + nginx
 + gunicorn
 + docker
-+ github actions
 ---
 ## Languages
 + English - Upper-intermediate(B2) - certificate of the University of Bologna
