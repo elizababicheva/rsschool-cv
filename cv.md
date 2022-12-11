@@ -20,8 +20,6 @@ I've started my career path as a tecnical interpreter. As а self-employed inter
 + postgresql
 + nginx
 + gunicorn
-+ docker
-
 ---
 ## Projects:
 As examples of my code i would like to demostrate some projects that i've done:
